@@ -4,18 +4,6 @@
 Build portfolio with pure Html, CSS, JavaScript   
 
 
-
-
-## Screenshots
-
-![Screenshot_7](https://github.com/Callmerev95/personal-portfolio-1/assets/154798324/e52407ee-cab8-4f12-abb3-69f935db9ea3)
-
-## Live Demo
-
-[Portfolio](https://callmerev95.github.io/personal-portfolio-1/)
-
-
-
 ## Features
 
 - Clean code
@@ -59,9 +47,4 @@ If you enjoyed this template and want to support my ability to make more of thes
 support me on
 <p><a href="https://www.buymeacoffee.com/callmerev95"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmerev" /></a><br><br><br>
 
-
-
-## Authors
-
-- [@Callmerev95](https://github.com/Callmerev95)
 
